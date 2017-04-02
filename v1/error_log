@@ -1,0 +1,18 @@
+[28-Mar-2017 13:00:52 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mlvti7vx/public_html/hackathon_api/include/Controller.php on line 217
+[28-Mar-2017 13:01:48 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mlvti7vx/public_html/hackathon_api/include/Controller.php on line 217
+[28-Mar-2017 13:01:53 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mlvti7vx/public_html/hackathon_api/include/Controller.php on line 217
+[28-Mar-2017 13:02:30 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mlvti7vx/public_html/hackathon_api/include/Controller.php on line 217
+[28-Mar-2017 13:02:33 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mlvti7vx/public_html/hackathon_api/include/Controller.php on line 217
+[28-Mar-2017 13:03:46 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mlvti7vx/public_html/hackathon_api/include/Controller.php on line 217
+[28-Mar-2017 13:04:38 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mlvti7vx/public_html/hackathon_api/include/Controller.php on line 217
+[28-Mar-2017 13:04:40 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mlvti7vx/public_html/hackathon_api/include/Controller.php on line 217
+[28-Mar-2017 13:05:16 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mlvti7vx/public_html/hackathon_api/include/Controller.php on line 217
+[28-Mar-2017 13:05:18 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mlvti7vx/public_html/hackathon_api/include/Controller.php on line 217
+[28-Mar-2017 13:07:07 Etc/GMT] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/mlvti7vx/public_html/hackathon_api/include/Controller.php on line 213
+[28-Mar-2017 13:07:09 Etc/GMT] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT), expecting ',' or ';' in /home/mlvti7vx/public_html/hackathon_api/include/Controller.php on line 213
+[28-Mar-2017 13:08:15 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mlvti7vx/public_html/hackathon_api/include/Controller.php on line 218
+[28-Mar-2017 13:08:17 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mlvti7vx/public_html/hackathon_api/include/Controller.php on line 218
+[28-Mar-2017 13:08:18 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mlvti7vx/public_html/hackathon_api/include/Controller.php on line 218
+[28-Mar-2017 13:08:18 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mlvti7vx/public_html/hackathon_api/include/Controller.php on line 218
+[28-Mar-2017 13:08:18 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mlvti7vx/public_html/hackathon_api/include/Controller.php on line 218
+[28-Mar-2017 13:08:20 Etc/GMT] PHP Fatal error:  Can't use method return value in write context in /home/mlvti7vx/public_html/hackathon_api/include/Controller.php on line 218
